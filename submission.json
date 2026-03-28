@@ -1,0 +1,8 @@
+{
+  "prompt": "Bauhaus graphic design poster, 1923 style. A yellow square representing a three-dimensional cube, rendered as flat geometric planes with no shading, casts a flat black shadow onto a white horizontal ground plane. The shadow is a separate geometric shape — a parallelogram — filled solid black with no gradient. Red straight projection lines connect the cube corners to the shadow corners. A blue circle sits on the ground plane where the shadow falls, representing the 2D projection. Asymmetric composition: cube upper-left, shadow lower-right. Sans-serif uppercase geometric text reads \"DIMENSIONSREDUKTION\" across the bottom in black Futura-style type. Strictly primary palette: red, blue, yellow, black, white only. No organic forms, no gradients, no decorative borders, no photographic shading. Flat unmodulated color fills. Strong geometric tension between elements.",
+  "model": "Ideogram 2",
+  "concept": "dimensionality reduction",
+  "tradition_name": "Bauhaus",
+  "tradition_period": "1919–1933",
+  "tradition_approach": "Itten's color-shape doctrine (yellow square = stable 3D object, blue circle = projection plane, red triangle = loss/direction). Moholy-Nagy flat shadow as separate geometric shape. Asymmetric composition, sans-serif uppercase type, strictly primary palette — no gradients or organic forms."
+}
